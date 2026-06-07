@@ -6,7 +6,6 @@
 
 A ComfyUI custom node that calls your **local llama.cpp server** to expand a short idea into a rich, structured JSON prompt for **Ideogram 4** — with full thinking/reasoning support.
 
-![Example output](assets/example_comic.png)
 
 ## What it does
 

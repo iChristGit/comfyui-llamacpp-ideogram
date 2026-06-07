@@ -1,3 +1,7 @@
+<img width="1080" height="476" alt="image" src="https://github.com/user-attachments/assets/86982b5a-f7fd-4080-8b01-a79785acb634" />
+
+
+
 # ComfyUI LlamaCPP → Ideogram Prompt
 
 A ComfyUI custom node that calls your **local llama.cpp server** to expand a short idea into a rich, structured JSON prompt for **Ideogram 4** — with full thinking/reasoning support.

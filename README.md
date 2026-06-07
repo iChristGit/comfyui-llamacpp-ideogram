@@ -90,7 +90,8 @@ The comic strip below was generated with:
 - Thinking budget: `4096`
 - Prompt: *"An 8-panel comic strip showing Homer Simpson discovering a mysterious glowing donut..."*
 
-![8-panel Homer comic](assets/example_comic.png)
+<img width="1152" height="640" alt="Ideogram_4 0_00014_" src="https://github.com/user-attachments/assets/c09d4360-4a89-48bc-b037-51e616d8c7dc" />
+
 
 ## Tips
 

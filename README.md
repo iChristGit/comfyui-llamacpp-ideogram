@@ -98,13 +98,6 @@ The comic strip below was generated with:
 - **Temperature**: `0.6` is a good default. Go lower (`0.3`) for more consistent JSON structure, higher (`0.8`) for more creative descriptions
 - **`unload_after = true`** is strongly recommended — the LLM and diffusion model fighting over VRAM will cause OOM errors on most consumer GPUs
 
-## WOrkflow example
-
-Alongside the example workflow .json file you can find, here is how the custom node integrates with the official workflow for ideogram4:
-
-<img width="2223" height="1048" alt="image" src="https://github.com/user-attachments/assets/eb3cb1a2-9228-4981-b3dc-c0f5a9bbc166" />
-
-
 ## License
 
 MIT

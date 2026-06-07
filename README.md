@@ -88,7 +88,7 @@ I reasoning-budget: deactivated (natural end)
 The comic strip below was generated with:
 - Model: `unsloth/Qwen3.6-27B-MTP-GGUF:Q4_K_XL`
 - Thinking budget: `4096`
-- Prompt: *"An 8-panel comic strip showing Homer Simpson discovering a mysterious glowing donut..."*
+- Prompt: *"An 8-panel comic strip showing Homer Simpson discovering a mysterious glowing donut in his backyard at night, picking it up, taking a bite, slowly transforming into a superhero with a donut-shaped chest emblem, flying over Springfield, saving Bart from falling off a skateboard ramp, landing heroically, then immediately sitting back on the couch eating another donut, hand-drawn comic book style with bold ink outlines, vibrant flat colors, and classic speech bubbles"*
 
 <img width="1152" height="640" alt="Ideogram_4 0_00014_" src="https://github.com/user-attachments/assets/c09d4360-4a89-48bc-b037-51e616d8c7dc" />
 

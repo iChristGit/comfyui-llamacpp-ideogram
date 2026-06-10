@@ -96,9 +96,11 @@ To use it you will need:
 The comic strip below was generated with:
 - Model: `unsloth/Qwen3.6-27B-MTP-GGUF:Q4_K_XL`
 - Thinking budget: `4096`
-- Prompt: *"An 8-panel comic strip showing Homer Simpson discovering a mysterious glowing donut in his backyard at night, picking it up, taking a bite, slowly transforming into a superhero with a donut-shaped chest emblem, flying over Springfield, saving Bart from falling off a skateboard ramp, landing heroically, then immediately sitting back on the couch eating another donut, hand-drawn comic book style with bold ink outlines, vibrant flat colors, and classic speech bubbles"*
+- Prompt: *"an episode of SpongeBob was banned in the United States for being quite offensive. Generate a screenshot of that episode."*
 
-<img width="1152" height="640" alt="Ideogram_4 0_00014_" src="https://github.com/user-attachments/assets/c09d4360-4a89-48bc-b037-51e616d8c7dc" />
+<img width="1376" height="768" alt="Ideogram_4 0_00087_" src="https://github.com/user-attachments/assets/d4615595-3a29-4bd1-9867-c466e8ba3d52" />
+
+<img width="1456" height="1456" alt="Ideogram_4 0_00046_" src="https://github.com/user-attachments/assets/855f3a91-b2fd-463b-ae4c-ef3aa6f2bcb2" />
 
 ## Tips
 

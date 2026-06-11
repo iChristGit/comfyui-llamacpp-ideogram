@@ -93,10 +93,10 @@ To use it you will need:
 
 ## Example output
 
-The comic strip below was generated with:
+The images below was generated with:
 - Model: `unsloth/Qwen3.6-27B-MTP-GGUF:Q4_K_XL`
 - Thinking budget: `4096`
-- Prompt: *"an episode of SpongeBob was banned in the United States for being quite offensive. Generate a screenshot of that episode."*
+- Prompt: *"an episode of SpongeBob/south park was banned in the United States for being quite offensive. Generate a screenshot of that episode."*
 
 <img width="1376" height="768" alt="Ideogram_4 0_00087_" src="https://github.com/user-attachments/assets/d4615595-3a29-4bd1-9867-c466e8ba3d52" />
 
